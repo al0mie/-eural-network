@@ -1,0 +1,6 @@
+D:\VisualProjrcts\ESLab6\ESLab6\bin\Debug\ESLab6.exe.config
+D:\VisualProjrcts\ESLab6\ESLab6\bin\Debug\ESLab6.exe
+D:\VisualProjrcts\ESLab6\ESLab6\bin\Debug\ESLab6.pdb
+D:\VisualProjrcts\ESLab6\ESLab6\obj\Debug\ESLab6.csprojResolveAssemblyReference.cache
+D:\VisualProjrcts\ESLab6\ESLab6\obj\Debug\ESLab6.exe
+D:\VisualProjrcts\ESLab6\ESLab6\obj\Debug\ESLab6.pdb
